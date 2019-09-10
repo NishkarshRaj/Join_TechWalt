@@ -14,3 +14,4 @@
 4. [LAKSHAY GUPTA](https://github.com/lakshay4040) : Student @ UPES Dehradun | Aspiring Big Data Scientist. 
 5. [BHAVY PRATAP](https://gitHub.com/BhavyPratap) : Student @ UPES DEHRADUN | Aspiring Data Scientist.
 6. [Arjun Sharma](https://github.com/rjrockzz) : Student
+7. [Nishkarsh Raj](https://www.github.com/NishkarshRaj) : Student @ UPES Dehradun | Full Stack Developer | DevOps
